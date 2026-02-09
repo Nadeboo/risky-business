@@ -1,0 +1,7 @@
+{
+  "bot_token": "owL-3qpZuVF3pNJJzxstBtUBp8y9ARMAES3YGtKwP5enzLoadZSbFPPaImX-mA66",
+  "prefix": "r.",
+  "api_base": "https://api.revolt.chat",
+  "ws_url": "wss://ws.revolt.chat"
+}
+
